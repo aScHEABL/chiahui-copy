@@ -1,0 +1,28 @@
+header {
+    display: flex;
+    justify-content: end;
+}
+
+h4 {
+    margin: 0;
+}
+
+#ul-font-size {
+    margin: 0;
+    list-style-type: none;
+    display: flex;
+    justify-content: end;
+    gap: 1 rem;
+}
+
+body {
+    background-color: #e0dedf;
+    margin: 0;
+}
+
+#div-all {
+    margin: 0 auto;
+    background: #fff;
+    font-size: 0.8em;
+    max-width: 1050px;
+}

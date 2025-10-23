@@ -1,0 +1,28 @@
+{
+  "name": "chiahui-copy",
+  "version": "1.0.0",
+  "description": "It's just a copy of www.chiahui.com.tw",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aScHEABL/chiahui-copy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aScHEABL/chiahui-copy/issues"
+  },
+  "homepage": "https://github.com/aScHEABL/chiahui-copy#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "dotenv": "^17.2.3",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.2",
+    "multer": "^2.0.2",
+    "nodemon": "^3.1.10"
+  }
+}
