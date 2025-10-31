@@ -1,18 +1,29 @@
 header {
     display: flex;
     justify-content: end;
+    padding: 0.5em 2em 0.5em 0.5em;
+}
+
+h1 {
+    margin: 0;
 }
 
 h4 {
-    margin: 0;
+    margin: 0 8px;
 }
 
 #ul-font-size {
     margin: 0;
+    padding: 0.25em 2em 0.25em 1em;
     list-style-type: none;
     display: flex;
     justify-content: end;
     gap: 1 rem;
+}
+
+.divider {
+    margin: 0 1em 0 0.5em;
+    border-right: 1px solid #ccc;
 }
 
 body {
