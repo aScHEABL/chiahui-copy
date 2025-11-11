@@ -26,6 +26,11 @@ nav {
     position: relative;
 }
 
+footer {
+    padding: 15px 10px 15px 20px;
+    background-color: #5b5b5d;
+}
+
 #ul-font-size {
     margin: 0;
     padding: 0.25em 2em 0.25em 1em;
@@ -75,6 +80,11 @@ nav {
 
 #div-contentarea {
     padding: 0px 20px;
+}
+
+#footer-text {
+    color: #fff;
+    margin: 0;
 }
 
 .divider {
