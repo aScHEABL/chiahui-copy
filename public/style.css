@@ -78,6 +78,18 @@ footer {
     margin: 15px 20px 15px 0px;
 }
 
+#breadcrumbs :is(span, a) {
+    font-size: 0.85em;
+}
+
+#div-left-nav h3 {
+    font-family: 'Titillium Maps', Arial;
+    color: #555;
+    font-size: 1.4em;
+    font-weight: normal;
+    line-height: 1.19em;
+}
+
 #div-contentarea {
     padding: 0px 20px;
 }
