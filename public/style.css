@@ -9,13 +9,6 @@ body {
     margin: 0;
 }
 
-h1 {
-    margin: 0;
-}
-
-h4 {
-    margin: 0 1em;
-}
 
 li {
     list-style-type: none;
@@ -37,6 +30,10 @@ footer {
     display: flex;
     justify-content: end;
     gap: 1 rem;
+}
+
+#ul-font-size h4 {
+    margin: 0 1em;
 }
 
 #div-all {
@@ -82,12 +79,22 @@ footer {
     font-size: 0.85em;
 }
 
+#div-left-nav{
+    width: 18%;
+}
+
+#div-left-nav div {
+    padding-bottom: 1em;
+    border-bottom: #ddd 1px solid;
+}
+
 #div-left-nav h3 {
-    font-family: 'Titillium Maps', Arial;
+    margin: 0;
+    font-family: 'Titillium Web', Arial;
     color: #555;
     font-size: 1.4em;
-    font-weight: normal;
-    line-height: 1.19em;
+    font-weight: 600;
+    line-height: 1.25em;
 }
 
 #div-contentarea {
