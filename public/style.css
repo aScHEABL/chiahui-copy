@@ -1,3 +1,13 @@
+.material-symbols-outlined {
+  font-size: 7px !important;
+  color: #cccccc;
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 24
+}
+
 header {
     display: flex;
     justify-content: end;
@@ -12,6 +22,10 @@ body {
 a {
     text-decoration: none;
     color: black;
+}
+
+ul {
+    padding: 0;
 }
 
 li {
@@ -93,6 +107,7 @@ footer {
 
 #div-left-nav{
     width: 18%;
+    margin: 30px 30px 10px 0px;
 }
 
 #div-left-nav > div {
